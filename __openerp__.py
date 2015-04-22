@@ -1,7 +1,7 @@
 ﻿{
     'name': "Attachments on leaves",
     'version': '1.0',
-    'depends': ['hr'],
+    'depends': ['hr_holidays'],
     'author': "Bernard DELHEZ, AbAKUS it-solutions SARL",
     'website': "http://www.abakusitsolutions.eu",
     'category': 'Humain Resource',
